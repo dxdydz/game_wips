@@ -11,6 +11,8 @@ Catch-all repo for half-finished and unpublished game rules
 ## Domino Games
 
 - [Greater Good](greatergood.md): Stacking domino game
+- [Bone Rails](bonerails.md): Pick up and deliver with domino tracks and dice passengers.
+- [Parity](parity.md): Classic domino game in the style of Muggins or All Fives except one player scores every time the line is odd and the other every time it is even.
 
 ## Other Games
 
